@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Simon Ljungström
 
+- 🌱 I’m currently learning more Java/SpringBoot
 <!--
 **simonlj8/simonlj8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
