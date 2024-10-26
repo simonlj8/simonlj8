@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Simon Ljungström
 
-- 🌱 I’m currently learning more Java/SpringBoot
+- 🌱 I’m currently learning more Python & machine learning!
 
 
 ### Contact me:
